@@ -5,7 +5,7 @@ permalink: /cv/
 published: true
 ---
 
-This is a short version of my curriculum. You can find the complete PDF [here](CV_NunoMartins_EN.pdf).
+This is a short version of my curriculum. You can find the complete PDF [here](CV_NunoMartins_EN.pdf){:target="_blank"}.
 
 ### Personal Information ###
 
