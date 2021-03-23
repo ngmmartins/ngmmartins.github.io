@@ -5,13 +5,14 @@ permalink: /cv/
 published: true
 ---
 
+This is a short version of my curriculum. You can find the complete PDF [here](CV_NunoMartins_EN.pdf).
+
 ### Personal Information ###
 
 
 <pre>
 <b>Name:</b>          Nuno Gonçalo Marques Martins
-<b>Address:</b>       Rua Garcia de Resende, Nº62 4º Esq.
-              2870-482 Montijo, Portugal
+<b>Address:</b>       Rua Garcia de Resende, Nº62 4º Esq. 2870-482 Montijo, Portugal
 <b>Mobile:</b>        +351 96 81 767 48
 <b>E-mail:</b>        nmartins10@gmail.com
 <b>Nationality:</b>   Portuguese
