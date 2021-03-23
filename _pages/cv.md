@@ -19,13 +19,15 @@ published: true
 </pre>
 
 ### Skills ###
-- **Programming Languages:** Java, <span style="color:#d9d9d9">Rust</span>, PHP
-- **Web:** Spring, Actix Web
+- **Programming Languages:** Java, <span style="color:#b3b3b3">Rust</span>, <span style="color:#b3b3b3">PHP</span>
+- **Web:** Spring, <span style="color:#b3b3b3">Actix Web</span>
 - **Databases:** Oracle, MySQL
 - **Containers:** Docker, Kubernetes
 - **CI/CD:** Jenkins
 - **Monitoring:** Instana, Kibana
 - **Other:** JIRA, Bitbucket, SonarQube, SwaggerHub
+
+**NOTE:** <span style="color:#b3b3b3">Skills with this color denote technologies with non-professional experience.</span>
 
 ### Relevant Work Experience ###
 
