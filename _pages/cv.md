@@ -11,7 +11,7 @@ published: true
 <pre>
 <b>Name:</b>          Nuno Gonçalo Marques Martins
 <b>Address:</b>       Rua Garcia de Resende, Nº62 4º Esq.
-                2870-482 Montijo, Portugal
+              2870-482 Montijo, Portugal
 <b>Mobile:</b>        +351 96 81 767 48
 <b>E-mail:</b>        nmartins10@gmail.com
 <b>Nationality:</b>   Portuguese
@@ -20,4 +20,12 @@ published: true
 
 ### Work Experience ###
 
-xx
+##### Software Engineer #####
+
+<pre>
+<b>Dates:</b> 13-02-2020 to __present__
+<b>Company:</b> [BOLD by Devoteam](https://boldint.com/en){:target="_blank"}
+<b>Client:</b> [adidas](https://www.adidas.com){:target="_blank"}
+<b>Position:</b> Lead Consultant
+<b>Job description:</b> I’m working at adidas in their Creators Club Membership Backend. I’m an engineer responsible for all developments in this program APIs that are used by the adidas website, mobile app, Runtastic and POS
+</pre>
