@@ -7,12 +7,8 @@ published: true
 
 ### Personal Information ###
 
-~~~
-Nuno Gonçalo Marques Martins
-Lisbon, Portugal
-~~~
 
 ```
-Nuno Gonçalo Marques Martins
-Lisbon, Portugal
+**Name:** Nuno Gonçalo Marques Martins
+**Address:** Lisbon, Portugal
 ```
