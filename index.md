@@ -8,6 +8,7 @@ published: true
 ---
 
 My name is Nuno Martins and I'm a Software Engineer living in Lisbon, Portugal.  
+
 I have 8+ years of professional experience working with Java/Spring, building complex 
 systems for banks and retail.
 
