@@ -20,12 +20,10 @@ published: true
 
 ### Work Experience ###
 
-##### Software Engineer #####
-
 <pre>
-<b>Dates:</b> 13-02-2020 to __present__
-<b>Company:</b> [BOLD by Devoteam](https://boldint.com/en){:target="_blank"}
-<b>Client:</b> [adidas](https://www.adidas.com){:target="_blank"}
+<b>Dates:</b> 13-02-2020 to <i>present</i>
+<b>Company:</b> <a href="https://boldint.com/en" target="_blank">BOLD by Devoteam</a> 
+<b>Client:</b> <a href="https://adidas.com" target="_blank">adidas</a> 
 <b>Position:</b> Lead Consultant
 <b>Job description:</b> I’m working at adidas in their Creators Club Membership Backend. I’m an engineer responsible for all developments in this program APIs that are used by the adidas website, mobile app, Runtastic and POS
 </pre>
