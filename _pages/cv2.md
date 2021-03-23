@@ -1,7 +1,7 @@
 ---
 title:
 layout: post
-permalink: /cv/
+permalink: /cv2/
 published: true
 ---
 
