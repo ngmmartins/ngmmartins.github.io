@@ -18,9 +18,10 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 #facebook: "#"
-github: "https://github.com/ngmmartins"
-linkedin: "https://www.linkedin.com/in/ngmartins/"
-twitter: "https://twitter.com/ngmmartins"
+github: "ngmmartins"
+linkedin: "ngmartins"
+twitter: "ngmmartins"
+keybase: "ngmmartins"
 
 highlighter: rouge
 markdown: kramdown

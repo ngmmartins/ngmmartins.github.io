@@ -34,6 +34,7 @@
 .fa-facebook-f,
 .fa-linkedin,
 .fa-github,
+.fa-keybase,
 .fa-orcid,
 .fa-researchgate,
 .fa-envelope {
@@ -59,6 +60,15 @@
   background: #fefefe;
   border-color: #55acee;
 }
+
+.rounded-social-buttons .social-button.keybase {
+  background: #55acee;
+}
+
+.rounded-social-buttons .social-button.keybase:hover, .rounded-social-buttons .social-button.keybase:focus {
+  color: #55acee;
+  background: #fefefe;
+  border-color: #55acee;
 
 .rounded-social-buttons .social-button.linkedin {
   background: #007bb5;
