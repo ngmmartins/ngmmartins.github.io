@@ -19,7 +19,7 @@ published: true
 </pre>
 
 ### Skills ###
-- **Programming Languages:** Java, <span style="color:grey">Rust</span>, PHP
+- **Programming Languages:** Java, <span style="color:#d9d9d9">Rust</span>, PHP
 - **Web:** Spring, Actix Web
 - **Databases:** Oracle, MySQL
 - **Containers:** Docker, Kubernetes
