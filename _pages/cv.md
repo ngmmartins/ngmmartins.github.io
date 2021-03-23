@@ -1,5 +1,5 @@
 ---
-title:
+title: Nuno Martins | Curriculum
 layout: default
 permalink: /cv/
 published: true
@@ -18,7 +18,18 @@ published: true
 <b>Date of birth:</b> 12-04-1987
 </pre>
 
-### Work Experience ###
+### Skills ###
+- **Programming Languages:** Java, Rust[^1], PHP[^1]
+- **Web:** Spring, Actix Web[^1]
+- **Databases:** Oracle, MySQL
+- **Containers:** Docker, Kubernetes
+- **CI/CD:** Jenkins
+- **Monitoring:** Instana, Kibana
+- **Other:** JIRA, Bitbucket, SonarQube, SwaggerHub
+
+[^1]: Skills with non-professional experience.
+
+### Relevant Work Experience ###
 
 <pre>
 <b>Dates:</b> 13-02-2020 to <i>present</i>
@@ -43,5 +54,6 @@ the adidas website, mobile app, Runtastic and POS.
 <b>Company:</b> <a href="https://www.ef.pt/en/index.html" target="_blank">EF Tecnologias de Software</a> 
 <b>Clients:</b> <a href="https://www.bancoeconomico.ao/en/" target="_blank">Banco Económico</a>, <a href="https://www.bb.com.br/pbb/pagina-inicial#/" target="_blank">Banco do Brasil</a>, <a href="https://www.db.com/index?language_id=1" target="_blank">Deutsche Bank</a>, <a href="https://en.wikipedia.org/wiki/Banif_Financial_Group" target="_blank">Banif</a> and <a href="https://www.bancovalor.ao/pages/homepage.php" target="_blank">Banco Valor</a>, 
 <b>Position:</b> Software Developer
-<b>Job description:</b> Developing Homebanking solutions and integration systems with multiple partners.
+<b>Job description:</b> Developing Homebanking solutions and integration systems with multiple 
+partners.
 </pre>
