@@ -10,5 +10,5 @@ published: true
 
 ```
 **Name:** Nuno Gonçalo Marques Martins
-**Address:** Lisbon, Portugal
+<b>Address:</b> Lisbon, Portugal
 ```
