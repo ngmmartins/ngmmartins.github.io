@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Nuno Martins
+description: Software Engineer
 
 baseurl: #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
-email: #
+email: nmartins10@gmail.com
 
 
 highlighter: rouge
