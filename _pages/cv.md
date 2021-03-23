@@ -25,5 +25,7 @@ published: true
 <b>Company:</b> <a href="https://boldint.com/en" target="_blank">BOLD by Devoteam</a> 
 <b>Client:</b> <a href="https://adidas.com" target="_blank">adidas</a> 
 <b>Position:</b> Lead Consultant
-<b>Job description:</b> I’m working at adidas in their Creators Club Membership Backend. I’m an engineer responsible for all developments in this program APIs that are used by the adidas website, mobile app, Runtastic and POS
+<b>Job description:</b> I’m working at adidas in their Creators Club Membership Backend.
+I’m an engineer responsible for all developments in this program APIs that are used by 
+the adidas website, mobile app, Runtastic and POS
 </pre>
