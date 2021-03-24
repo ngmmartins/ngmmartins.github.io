@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ngmmartins
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ngmmartins.github.io
+  * I am ngmmartins (https://keybase.io/ngmmartins) on keybase.
+  * I have a public key ASBQ4XRsU-UqykOL5DxqSlH5wO_pdKmD2zFL0h0wYcR0IAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012050e1746c53e52aca438be43c6a4a51f9c0efe974a983db314bd21d3061c474200a",
+      "host": "keybase.io",
+      "kid": "012050e1746c53e52aca438be43c6a4a51f9c0efe974a983db314bd21d3061c474200a",
+      "uid": "96ff730896d5f2538608ce78d0be0119",
+      "username": "ngmmartins"
+    },
+    "merkle_root": {
+      "ctime": 1616544770,
+      "hash": "968525ff25a9cbdeb798ad2e2c5929ee0394eec9ca93dd4c7f03f510de70be5187364465c8103d1530087626a48175599d19c6923058adc47e540ac0ae75d301",
+      "hash_meta": "376e65b7b67d392d052da916e2a50c6ee57d685365fb013a82118134aab56607",
+      "seqno": 19452866
+    },
+    "service": {
+      "entropy": "TBPwhSRY3zIG1H7h7uTAmfoi",
+      "hostname": "ngmmartins.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1616544822,
+  "expire_in": 504576000,
+  "prev": "681a3f907f54ee04af4696d80fcac504f158a4e764025409e2beca996b8d5cc7",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUOF0bFPlKspDi+Q8akpR+cDv6XSpg9sxS9IdMGHEdCAKp3BheWxvYWTESpcCDsQgaBo/kH9U7gSvRpbYD8rFBPFYpOdkAlQJ4r7KmWuNXMfEIKEwFvipmGDSbuwExT7+jdv69fhmBNOQnM8/HNtmazm7AgHCo3NpZ8RAXQ0hsNUaVZq+0RCp1FMeIrhMjVQWoDy745+t27lCWPilna8EKAK4TXEhJ5GehSE9M2tiLnqvQvYhCKMLGOPbAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPDt0bt3Ab8f/+f2wCnPay8M4007LHjk5xlAxNwVwnJKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ngmmartins
+
+==================================================================
