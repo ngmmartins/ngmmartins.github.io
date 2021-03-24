@@ -52,6 +52,7 @@ sass:
 
 include:
   - _pages
+  - keybase.txt
 
 exclude:
   - README.md
