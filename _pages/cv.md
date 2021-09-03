@@ -19,7 +19,7 @@ This is a short version of my curriculum. You can find the complete PDF [here](C
 </pre>
 
 ### Skills ###
-- **Programming Languages:** Java, Swift, <span style="color:#b3b3b3">Rust</span>, <span style="color:#b3b3b3">PHP</span>
+- **Programming Languages:** Java, Swift, <span style="color:#b3b3b3">Go</span>, <span style="color:#b3b3b3">Rust</span>, <span style="color:#b3b3b3">PHP</span>
 - **Web:** Spring, <span style="color:#b3b3b3">Actix Web</span>
 - **Databases:** Oracle, MySQL
 - **Containers:** Docker, Kubernetes
