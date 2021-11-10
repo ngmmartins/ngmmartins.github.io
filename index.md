@@ -14,6 +14,6 @@ systems for banks and retail.
 
 I am interested in topics related with general programming, software architecture, cloud services and DevOps.
 
-Recently I am exploring the [Go](https://golang.org/){:target="_blank"} and [Rust](https://www.rust-lang.org/){:target="_blank"} programming languages and enjoying them a lot!
+Recently I am exploring the [Go](https://golang.org/){:target="_blank"} and [Rust](https://www.rust-lang.org/){:target="_blank"} programming languages and enjoying them a lot! With this I'm now only considering opportunities with one of(or both!) these languages.
 
 Feel free to reach out to me using the social icons below.

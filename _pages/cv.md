@@ -20,12 +20,11 @@ This is a short version of my curriculum. You can find the complete PDF [here](C
 
 ### Skills ###
 - **Programming Languages:** Java, Swift, <span style="color:#b3b3b3">Go</span>, <span style="color:#b3b3b3">Rust</span>, <span style="color:#b3b3b3">PHP</span>
-- **Web:** Spring, <span style="color:#b3b3b3">Actix Web</span>
+- **Frameworks:** Spring
 - **Databases:** Oracle, MySQL
 - **Containers:** Docker, Kubernetes
-- **CI/CD:** Jenkins
-- **Monitoring:** Instana, Kibana
-- **Other:** JIRA, Bitbucket, SonarQube, SwaggerHub
+- **Cloud Providers:** AWS(EC2/VPC/S3/IAM)
+- **Other:** Instana, Kibana, Jenkins, JIRA, Bitbucket, Confluence, SonarQube, SwaggerHub
 
 **NOTE:** <span style="color:#b3b3b3">Skills with this color denote technologies with non-professional experience.</span>
 
