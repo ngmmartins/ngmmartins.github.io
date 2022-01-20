@@ -35,7 +35,8 @@ This is a short version of my curriculum. You can find the complete PDF [here](C
 <b>Company:</b> <a href="https://boldint.com/en" target="_blank">BOLD by Devoteam</a> 
 <b>Client:</b> <a href="https://www.volkswagenag.com/" target="_blank">Volkswagen AG</a> 
 <b>Position:</b> Lead Consultant
-<b>Job description:</b> I work as a Software Engineer in an internal tool to support Volkswagen's full Electrical Vehicles.
+<b>Job description:</b> I work as a Software Engineer in an internal tool to support 
+Volkswagen's full Electrical Vehicles.
 </pre>
 
 <pre>
