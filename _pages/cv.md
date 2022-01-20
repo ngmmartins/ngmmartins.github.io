@@ -24,19 +24,27 @@ This is a short version of my curriculum. You can find the complete PDF [here](C
 - **Databases:** Oracle, MySQL
 - **Containers:** Docker, Kubernetes
 - **Cloud Providers:** AWS(EC2/VPC/S3/IAM)
-- **Other:** Instana, Kibana, Jenkins, JIRA, Bitbucket, Confluence, SonarQube, SwaggerHub
+- **Other:** Instana, Elastic Stack, Jenkins, JIRA, Bitbucket, Confluence, SonarQube, SwaggerHub
 
 **NOTE:** <span style="color:#b3b3b3">Skills with this color denote technologies with non-professional experience.</span>
 
 ### Relevant Work Experience ###
 
 <pre>
-<b>Dates:</b> 13-02-2020 to <i>present</i>
+<b>Dates:</b> 10-01-2022 to <i>present</i>
+<b>Company:</b> <a href="https://boldint.com/en" target="_blank">BOLD by Devoteam</a> 
+<b>Client:</b> <a href="https://www.volkswagenag.com/" target="_blank">Volkswagen AG</a> 
+<b>Position:</b> Lead Consultant
+<b>Job description:</b> I work as a Software Engineer in an internal tool to support Volkswagen's full Electrical Vehicles.
+</pre>
+
+<pre>
+<b>Dates:</b> 13-02-2020 to 23-12-2021
 <b>Company:</b> <a href="https://boldint.com/en" target="_blank">BOLD by Devoteam</a> 
 <b>Client:</b> <a href="https://adidas.com" target="_blank">adidas</a> 
 <b>Position:</b> Lead Consultant
-<b>Job description:</b> I’m working at adidas in their Creators Club Membership Backend.
-I’m an engineer responsible for all developments in this program APIs that are used by 
+<b>Job description:</b> I have worked at adidas in their Creators Club Membership Backend.
+I was responsible for developments in this program APIs that are used by 
 the adidas website, mobile app, Runtastic and POS.
 </pre>
 
