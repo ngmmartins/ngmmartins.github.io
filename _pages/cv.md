@@ -36,8 +36,9 @@ This is a short version of my curriculum. You can find the complete PDF [here](C
 <b>Position:</b> Lead Consultant
 <b>Job description:</b> I'm working at Volkswagen AG as a Software Engineer in an internal tool 
 to support their Electrical Vehicles.
-I have also worked at adidas in their Creators Club Membership Backend. I was responsible for developments 
-in this program APIs that are used by the adidas website, mobile app, Runtastic and POS.
+I have also worked at adidas in their Creators Club Membership Backend. 
+I was responsible for developments in this program APIs that are used by the adidas website,
+mobile app, Runtastic and POS.
 </pre>
 
 <pre>
@@ -51,5 +52,6 @@ in this program APIs that are used by the adidas website, mobile app, Runtastic 
 <b>Dates:</b> 20-09-2012 to 26-07-2019
 <b>Company:</b> <a href="https://www.ef.pt/en/index.html" target="_blank">EF Tecnologias de Software</a> 
 <b>Position:</b> Software Developer
-<b>Job description:</b> Participated in all phases of software development life cycle in multiple Homebanking solutions and integration systems.
+<b>Job description:</b> Participated in all phases of software development life cycle 
+in multiple Homebanking solutions and integration systems.
 </pre>
