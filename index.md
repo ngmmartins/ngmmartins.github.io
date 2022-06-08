@@ -9,11 +9,12 @@ published: true
 
 My name is Nuno Martins and I'm a Software Engineer living in Lisbon, Portugal.  
 
-I have 9+ years of professional experience working with Java/Spring, building complex 
-systems for banks and retail.
+I have 10 years of professional experience working with Java/Spring, building complex 
+systems for banks and retail. I'm experienced in all phases of the software development life cycle.
 
 I am interested in topics related with general programming, software architecture, cloud services and DevOps.
 
-Recently I am exploring the [Go](https://golang.org/){:target="_blank"} and [Rust](https://www.rust-lang.org/){:target="_blank"} programming languages and enjoying them a lot! With this I'm now only considering opportunities with one of(or both!) these languages.
+A t this time I'm looking for opportunities to work on a more business/people oriented role while still leveraging
+my technical background to improve communication between both sides
 
 Feel free to reach out to me using the social icons below.
