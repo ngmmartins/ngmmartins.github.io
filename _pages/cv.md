@@ -21,38 +21,28 @@ This is a short version of my curriculum. You can find the complete PDF [here](C
 ### Skills ###
 - **Programming Languages:** Java, Swift, <span style="color:#b3b3b3">Go</span>, <span style="color:#b3b3b3">Rust</span>, <span style="color:#b3b3b3">PHP</span>
 - **Frameworks:** Spring
-- **Databases:** Oracle, MySQL
+- **Databases:** Oracle, MySQL, PostgreSQL
 - **Containers:** Docker, Kubernetes
-- **Cloud Providers:** AWS(EC2/VPC/S3/IAM)
-- **Other:** Instana, Elastic Stack, Jenkins, JIRA, Bitbucket, Confluence, SonarQube, SwaggerHub
+- **Cloud Providers:** AWS(EC2/VPC/S3/IAM/Lambda)
+- **Other:** Instana, Elastic Stack, Jenkins, Bamboo, JIRA, Bitbucket, Confluence, SonarQube, SwaggerHub
 
 **NOTE:** <span style="color:#b3b3b3">Skills with this color denote technologies with non-professional experience.</span>
 
 ### Relevant Work Experience ###
 
 <pre>
-<b>Dates:</b> 10-01-2022 to <i>present</i>
-<b>Company:</b> <a href="https://boldint.com/en" target="_blank">BOLD by Devoteam</a> 
-<b>Client:</b> <a href="https://www.volkswagenag.com/" target="_blank">Volkswagen AG</a> 
+<b>Dates:</b> 13-02-2020 to <i>present</i>
+<b>Company:</b> <a href="https://boldint.com/en" target="_blank">Devoteam Portugal</a> 
 <b>Position:</b> Lead Consultant
-<b>Job description:</b> I work as a Software Engineer in an internal tool to support 
-Volkswagen's full Electrical Vehicles.
-</pre>
-
-<pre>
-<b>Dates:</b> 13-02-2020 to 23-12-2021
-<b>Company:</b> <a href="https://boldint.com/en" target="_blank">BOLD by Devoteam</a> 
-<b>Client:</b> <a href="https://adidas.com" target="_blank">adidas</a> 
-<b>Position:</b> Lead Consultant
-<b>Job description:</b> I have worked at adidas in their Creators Club Membership Backend.
-I was responsible for developments in this program APIs that are used by 
-the adidas website, mobile app, Runtastic and POS.
+<b>Job description:</b> I'm working at Volkswagen AG as a Software Engineer in an internal tool 
+to support their Electrical Vehicles.
+I have also worked at adidas in their Creators Club Membership Backend. I was responsible for developments 
+in this program APIs that are used by the adidas website, mobile app, Runtastic and POS.
 </pre>
 
 <pre>
 <b>Dates:</b> 05-08-2019 to 31-01-2020
 <b>Company:</b> <a href="https://www.polarising.com/" target="_blank">Polarising</a> 
-<b>Client:</b> <a href="https://www.vive.co.uk/" target="_blank">Vive</a> 
 <b>Position:</b> Software Engineer
 <b>Job description:</b> Business Analyst and Developer of a backend system for an UK Bank.
 </pre>
@@ -60,8 +50,6 @@ the adidas website, mobile app, Runtastic and POS.
 <pre>
 <b>Dates:</b> 20-09-2012 to 26-07-2019
 <b>Company:</b> <a href="https://www.ef.pt/en/index.html" target="_blank">EF Tecnologias de Software</a> 
-<b>Clients:</b> <a href="https://www.bancoeconomico.ao/en/" target="_blank">Banco Económico</a>, <a href="https://www.bb.com.br/pbb/pagina-inicial#/" target="_blank">Banco do Brasil</a>, <a href="https://www.db.com/index?language_id=1" target="_blank">Deutsche Bank</a>, <a href="https://en.wikipedia.org/wiki/Banif_Financial_Group" target="_blank">Banif</a> and <a href="https://www.bancovalor.ao/pages/homepage.php" target="_blank">Banco Valor</a>, 
 <b>Position:</b> Software Developer
-<b>Job description:</b> Developing Homebanking solutions and integration systems with multiple 
-partners.
+<b>Job description:</b> Participated in all phases of software development life cycle in multiple Homebanking solutions and integration systems.
 </pre>
