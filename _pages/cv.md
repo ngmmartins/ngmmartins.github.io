@@ -21,7 +21,7 @@ This is a short version of my curriculum. You can find the complete PDF [here](C
 ### Skills ###
 - **Programming Languages:** Java, Swift, <span style="color:#b3b3b3">Go</span>, <span style="color:#b3b3b3">Rust</span>, <span style="color:#b3b3b3">PHP</span>
 - **Frameworks:** Spring
-- **Databases:** Oracle, MySQL, PostgreSQL
+- **Databases:** Oracle, MySQL
 - **Containers:** Docker, Kubernetes
 - **Cloud Providers:** AWS(EC2/VPC/S3/IAM/Lambda)
 - **Other:** Instana, Elastic Stack, Jenkins, Bamboo, JIRA, Bitbucket, Confluence, SonarQube, SwaggerHub
@@ -37,8 +37,8 @@ This is a short version of my curriculum. You can find the complete PDF [here](C
 <b>Job description:</b> I'm working at Volkswagen AG as a Software Engineer in an internal tool 
 to support their Electrical Vehicles.
 I have also worked at adidas in their Creators Club Membership Backend. 
-I was responsible for developments in this program APIs that are used by the adidas website,
-mobile app, Runtastic and POS.
+I was responsible for developments in this program APIs that are used by the adidas 
+website, mobile app, Runtastic and POS.
 </pre>
 
 <pre>
