@@ -35,7 +35,7 @@ This is a short version of my curriculum. You can find the complete PDF [here](C
 <b>Company:</b> <a href="https://boldint.com/en" target="_blank">Devoteam Portugal</a> 
 <b>Position:</b> Lead Consultant
 <b>Job description:</b> I'm working at Volkswagen AG as a Software Engineer in an internal tool 
-to support their Electrical Vehicles.
+to support their Connected Vehicles.
 I have also worked at adidas in their Creators Club Membership Backend. 
 I was responsible for developments in this program APIs that are used by the adidas 
 website, mobile app, Runtastic and POS.
